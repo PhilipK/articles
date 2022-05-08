@@ -1,5 +1,5 @@
 # Always pick the simplest thing
-If you only take one thing away from this article, it should be this: When you are developing a product, and you are faced with a choice, always pick the simplest thing that solves your immediate problem, then make sure you can change your mind later.
+If you only take one thing away from this article, it should be this: When you are developing a product, and you are faced with a choice, **always pick the simplest thing that solves your immediate problem**, then make sure you can change your mind later.
 
 By the simplest thing I mean "not complex". What is complexity? Well google says it is:
 "the state or quality of being intricate or complicated". Not super useful, so I will add, “the simplest solution is the easiest to reason about”.
