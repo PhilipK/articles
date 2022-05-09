@@ -1,4 +1,4 @@
-# Always pick the simplest thing
+# Complexity is the mind killer
 TL;DR: When faced with a choice, always pick the simplest thing that solves your immediate problem. Then make sure you can change your mind later. By the simplest thing I mean the solution that is easiest to reason about.
 
 When we always pick the simplest solution we avoid the analysis paralysis of finding out which solution might be the best in all the future scenarios we can imagine. We simply pick the simplest thing, and move on, knowing that it is easy to change our mind later. After we implement the simple solution, we have a much better understanding of our problem and we can ask "is my immediate problem solved?" If not; repeat. 
